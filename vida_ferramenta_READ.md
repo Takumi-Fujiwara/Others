@@ -11,3 +11,12 @@
 
 ## Gráfico final Vc x T
 ![tempo de vida ferramenta](https://user-images.githubusercontent.com/35372404/205204629-9e39abde-f5dd-47f9-ac77-c94a441defa7.png)
+
+## variações
+
+Caso queira testar novas opções alterar vetores de velocidades de corte = vcs, desgastes = vb_xxx e vb.
+
+*** Não esquecer de alterar o nome dos vetores de desgaste
+
+    ex: desejo utilizar vcs[ 100, 200] os vetores de desgaste deverão ser vb_100[] e vb_200[]
+
